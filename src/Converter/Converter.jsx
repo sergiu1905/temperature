@@ -38,7 +38,7 @@ export default function Converter() {
         <div className="header">
           <div>
             <div className="circle red" div>
-            <div className="circle yellow" style=}></div>
+            <div className="circle yellow"></div>
             <div className="circle green"></div>
           </div>
 
