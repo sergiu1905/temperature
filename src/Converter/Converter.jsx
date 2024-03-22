@@ -37,9 +37,9 @@ export default function Converter() {
       <div className="converter_body">
         <div className="header">
           <div>
-            <div className="circle" style={{ backgroundColor: 'red' }}></div>
-            <div className="circle" style={{ backgroundColor: 'yellow' }}></div>
-            <div className="circle" style={{ backgroundColor: 'green' }}></div>
+            <div className="circle red" div>
+            <div className="circle yellow" style=}></div>
+            <div className="circle green"></div>
           </div>
 
           <h3 style={{ color: colorText() }}>Converter</h3>
