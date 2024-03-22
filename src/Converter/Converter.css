@@ -38,6 +38,9 @@
     font-size: 8px;
 
 }
+.red{background-color: red;}
+.yellow{background-color:yellow;}
+.green{background-color: green;}
 
 .main_converter {
     display: flex;
